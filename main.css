@@ -1,0 +1,62 @@
+/* Inserta tu código aqui */
+hr{
+	width: 150px;
+	height: 3px;
+	background-color: black;
+	margin-left: 20px;
+}
+h1{
+	margin-left: 20px;
+}
+.p{
+	position: absolute;
+	left: 110px;
+	top: 300px;
+	color: white;
+}
+.pdos{
+	position: absolute;
+	left: 360px;
+	top: 300px;
+	color: white;
+}
+.ptres{
+	position: absolute;
+	left: 620px;
+	top: 300px;
+	color: white;	
+}
+.pcuatro{
+	position: absolute;
+	left: 110px;
+	top: 550px;
+	color: white;	
+}
+.pcinco{
+	position: absolute;
+	left: 360px;
+	top: 550px;
+	color: white;	
+}
+.pseis{
+	position: absolute;
+	left: 620px;
+	top: 550px;
+	color: white;	
+}
+img{
+	position: relative;
+	margin: 20px;
+	opacity: 0.7;
+}
+img:hover{
+	opacity: 1;
+	/*para la opacidad de la imagen , que cambie al pasar mouse*/
+}
+.big{
+	display: inline-block;
+}
+.base{
+	width: 800px;
+	height: 250px;
+}
